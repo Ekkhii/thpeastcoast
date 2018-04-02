@@ -1,2 +1,1 @@
 puts "Berangere"
-puts "Manu"
