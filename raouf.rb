@@ -1,1 +1,0 @@
-puts "j'ai envoyé mon fichier rb les amis, je crois que je suis prêt pour hacker la NSA"
